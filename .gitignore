@@ -15,7 +15,6 @@ tags
 readFile
 writeFile
 *CMakeFiles*
-*all*
 *back1.sql
 *back.sql
 *load.sql
