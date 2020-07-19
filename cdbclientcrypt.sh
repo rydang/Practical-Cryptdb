@@ -1,1 +1,1 @@
-`pwd`/mysql-src/build/client/mysql -uroot -pletmein -h database
+`pwd`/mysql-src/build/client/mysql -uroot -pletmein -h $1
